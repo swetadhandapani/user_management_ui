@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "name": "Muruga",
+      "code": "IND",
+      "countries": [
+        "DE",
+        "DK"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Keerthi",
+      "code": "EI",
+      "countries": [
+        "IS",
+        "CA"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Dina",
+      "code": "EU",
+      "countries": [
+        "DE",
+        "BE"
+      ],
+      "id": 5
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ]
+}
